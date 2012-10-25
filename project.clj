@@ -8,6 +8,7 @@
   :plugins [[lein-cljsbuild "0.2.9"]]
   
   :source-paths ["src"]
+  :main tetris.core
   ;;cljsbuild does not like cljs files being in the root source folder
   :cljsbuild {:crossovers [tetris.game]
               :builds 
