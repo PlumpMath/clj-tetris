@@ -1,6 +1,6 @@
-(defproject cljs-tetris "0.1.0-SNAPSHOT"
-  :description "FIXME: write description"
-  :url "http://example.com/FIXME"
+(defproject tetris "0.1.0-SNAPSHOT"
+  :description "a simple Tetris game"
+  :url "https://github.com/yogthos/Clojure-Tetris"
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
   
