@@ -1,4 +1,6 @@
-Sample Tetris game in Clojure
+Sample Tetris game in Clojure/Script
+
+[demo](https://rawgit.com/yogthos/Clojure-Tetris/master/demo.html)
 
 to compile Clojure version run
 ```bash
