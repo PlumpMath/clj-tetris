@@ -11,6 +11,7 @@ to compile ClojureScript version run
 lein cljsbuild once
 ```
 
+Open `demo.html` in a browser to play the game.
 
 Copyright (C) 2010 Yogthos
 
